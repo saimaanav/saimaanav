@@ -5,7 +5,7 @@ I build at the intersection of **ML and applied AI**.
 
 
 ### What I've built
-- 🧠 **RNN fixed-point analysis** — built the fixed-point characterization pipeline 
+-  **RNN fixed-point analysis** — built the fixed-point characterization pipeline 
   (eigenvalue classification + propagation) for curriculum-trained RNNs at NYU CDS · 
   [*Nature Machine Intelligence*, 2025](https://www.nature.com/articles/s42256-025-01029-3) · 
   [repo](https://github.com/saimaanav/rnn-curriculum)
