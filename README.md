@@ -9,7 +9,7 @@ I build at the intersection of **ML and applied AI**.
   (eigenvalue classification + propagation) for curriculum-trained RNNs at NYU CDS · 
   [*Nature Machine Intelligence*, 2025](https://www.nature.com/articles/s42256-025-01029-3) · 
   [repo](https://github.com/saimaanav/rnn-curriculum)
--  **Epidemiology agent model** — built for Indian govt, $20k in total awards
+-  ** ML Epidemiology agent model** — built for Indian govt, $20k in total awards
 
 
 ### Stack
