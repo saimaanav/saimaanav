@@ -11,6 +11,7 @@ I build at the intersection of **ML and applied AI**.
   [repo](https://github.com/saimaanav/rnn-curriculum)
 -  **ML Epidemiology agent model** — built for Indian govt, $20k in total awards·
    [repo](https://github.com/saimaanav/rabies-transmission-model)
+-  **Curriculum learning for AI search rerankers** — showed that scheduling pairwise LLM judgments easy-to-hard improves NDCG by 14% over random selection at fixed judge budget · [repo](https://github.com/saimaanav/reranker-curriculum-study)
 
 
 ### Stack
